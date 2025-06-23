@@ -1,6 +1,7 @@
 {
   "mappings": [
-    "/:/"
+    "/content/aem-eds-site-forms-marco/:/",
+    "/content/aem-eds-site-forms-marco/configuration:/.helix/config.json"
   ],
   "includes": [
     "/content/",
