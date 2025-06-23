@@ -1,10 +1,12 @@
 {
   "mappings": [
     "/content/aem-eds-site-forms-marco/:/",
-    "/content/aem-eds-site-forms-marco/configuration:/.helix/config.json"
+    "/content/aem-eds-site-forms-marco/configuration:/.helix/config.json",
+    "/content/aem-eds-site-forms-marco/metadata:/metadata.json"
   ],
   "includes": [
     "/content/",
     "/content/dam/"
+    "/content/universal-editor-getting-started-site/"
   ]
 }
